@@ -2,6 +2,17 @@ h1:focus {
     outline: none;
 }
 
+body {
+    font-family: Calibri;
+    font-size: small
+}
+#copyright {
+    position: fixed;
+    bottom: 0;
+    padding: 5px;
+    text-align: center;
+    width:100%;
+}
 #blazor-error-ui {
     background: lightyellow;
     bottom: 0;
