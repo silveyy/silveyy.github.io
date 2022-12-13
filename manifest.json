@@ -1,6 +1,6 @@
 {
-  "name": "root",
-  "short_name": "root",
+  "name": "silveys.net",
+  "short_name": "silveys.net",
   "start_url": "./",
   "display": "standalone",
   "background_color": "#ffffff",
